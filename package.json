@@ -11,5 +11,9 @@
     "url": "chat_app_v1"
   },
   "author": "Sam Joseph",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
 }
