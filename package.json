@@ -1,0 +1,15 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "Messing around with socketIO, express, and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat_app_v1"
+  },
+  "author": "Sam Joseph",
+  "license": "ISC"
+}
